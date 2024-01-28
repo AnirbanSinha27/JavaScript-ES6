@@ -1,2 +1,1 @@
-# JavaScript-ES6
- 
+Basic of modern javascript(ES6) 
